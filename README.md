@@ -1,1 +1,1 @@
-# test-javascript-app
+The repository was created with errors for testing another application
